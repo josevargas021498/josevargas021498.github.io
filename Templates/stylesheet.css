@@ -172,3 +172,13 @@ body {
     height: 450px;
     margin-left: -50px;
 }
+
+#resume {
+    font-family: 'Abril Fatface', cursive;
+    color: #09008b;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    background-color: #d0fff7;
+    border-radius: 25%;
+}

@@ -1,0 +1,78 @@
+body {
+  background: url(https://www.walldevil.com/wallpapers/a48/vector-wallpaper-technology-images.jpg)
+    center center fixed;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+}
+
+#opennav {
+  text-align: center;
+  width: 14.5em;
+  background-color: rgba(255, 255, 255, 0.815);
+  padding: 20px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+  display: block;
+  border-style: solid;
+  border-width: 0.6px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  -webkit-text-stroke-width: 0.5px;
+  transition: 0.3s;
+}
+
+.t_menu {
+  font-family: "Lato", sans-serif;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.815);
+  padding-top: 50px;
+  left: 0;
+  height: 100%;
+  width: 25.9em;
+}
+
+.t_menu a {
+  padding: 45px;
+  text-decoration: none;
+  font-size: 27px;
+  color: #000000;
+  display: block;
+  border-style: solid;
+  border-width: 0.6px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  transition: 0.3s;
+}
+.t_menu p {
+  text-align: center;
+  font-family: "Akronim", cursive;
+  color: white;
+  margin-top: -1em;
+  font-size: 3.5em;
+  padding: 17.6px;
+}
+.t_menu a:hover {
+  background-color: rgba(0, 0, 0, 0.658);
+  color: rgb(255, 255, 255);
+}
+
+.title {
+  padding: 45px;
+  text-align: center;
+  color: white;
+}
+.title h1 {
+  font-size: 7em;
+}
+
+.project_media {
+  background-color: rgba(255, 255, 255, 0.815);
+  padding: 45px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.project_media video {
+  padding-top: 25px;
+  height: 35em;
+  width: 75em;
+}

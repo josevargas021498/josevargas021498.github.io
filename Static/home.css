@@ -1,0 +1,74 @@
+body {
+  /* background: url(https://media.giphy.com/media/mAegV7Rqy8oWQ/giphy.gif)center center
+    fixed; */
+  background: url(https://cdn-images-1.medium.com/max/1920/1*iySI0tzp0A4gBF7R8qShtw.jpeg)
+    center center fixed;
+  background-size: 100%;
+}
+
+.name h1 {
+  font-family: "Akronim", cursive;
+  color: white;
+  font-size: 10em;
+}
+
+.name {
+  text-align: center;
+  float: right;
+  padding: 15px;
+  right: 0;
+}
+
+/* ----------------------------- */
+
+.wlcm {
+  font-family: "Akronim", cursive;
+  color: white;
+  text-align: center;
+  margin-right: 11.5em;
+}
+.wlcm h1 {
+  font-size: 12em;
+  margin-top: 2.5em;
+}
+.wlcm h2 {
+  font-size: 4em;
+}
+.wlcm p {
+  font-size: 1.6em;
+}
+
+.t_menu {
+  font-family: "Lato", sans-serif;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.274);
+  padding-top: 60px;
+  left: 0;
+  height: 100%;
+}
+
+.t_menu a {
+  padding: 45px;
+  text-decoration: none;
+  font-size: 27px;
+  color: #ffffff;
+  display: block;
+  border-style: solid;
+  border-right-style: none;
+  border-width: 0.6px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1.5px;
+  transition: 0.3s;
+}
+.t_menu p {
+  text-align: center;
+  font-family: "Akronim", cursive;
+  color: white;
+  margin-top: -1em;
+  font-size: 4em;
+  padding: 25px;
+}
+.t_menu a:hover {
+  background-color: rgba(255, 255, 255, 0.658);
+  color: rgb(51, 51, 51);
+}
